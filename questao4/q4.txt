@@ -1,0 +1,7 @@
+Explique se você considera que os padrões propostos para os exercícios 1, 2 e 3 eram realmente os mais adequados para cada uma das situações. Justifique sua resposta
+
+1. Pelo fato de que a aplicação faz uso frequente de de coleções e usar o Singleton junto com Factory, pois esse padrão de projeto prevê apenas uma instância onde pode ter vários objetos que podem ser acessados.
+
+2. Na questão dois o padrão Builder faz sentido, pois existem parâmetros que não são necessários para a instanciação da classe, e o Builder permite que esses parâmetros sejam opcionais.
+
+3. O padrão static factory method nesse caso faz sentido, pois facilita a criação de Personagens conhecidos, e não é necessário criar uma classe para cada um.
